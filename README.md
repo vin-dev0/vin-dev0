@@ -4,8 +4,6 @@
 Building clean, scalable web applications by day; optimizing Proxmox clusters by night. I bridge the gap between pixel-perfect frontends and high-availability infrastructure.
 
 ---
-![image](https://github.com/vin-dev0/vin-dev0/blob/main/hackersetup.png)
-
 
 ## 🚀 The Tech Stack
 
