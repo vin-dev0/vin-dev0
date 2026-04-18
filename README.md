@@ -1,4 +1,3 @@
-# 👋 I'm Vin
 ### Full Stack Developer | Linux Enthusiast | Homelab Architect
 
 Building clean, scalable web applications by day; optimizing Proxmox clusters by night. I bridge the gap between pixel-perfect frontends and high-availability infrastructure.
