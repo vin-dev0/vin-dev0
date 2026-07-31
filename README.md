@@ -29,10 +29,10 @@ Building clean, scalable web applications by day; optimizing Proxmox clusters by
 > I manage a high-availability infrastructure, running everything from Proxmox clusters to Dockerized microservices.
 
 ```bash
-vin@homelab:~$ uptime
+sub-dev0@homelab:~$ uptime
 05:53:06 up 42 days, 12:45, 1 user, load average: 0.12, 0.08, 0.05
 
-vin@homelab:~$ docker ps --format "table {{.Names}}\t{{.Status}}"
+sub-dev0@homelab:~$ docker ps --format "table {{.Names}}\t{{.Status}}"
 NAMES             STATUS
 PORTFOLIO-SITE    Up 3 weeks
 PRISMA-DB         Up 3 weeks
